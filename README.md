@@ -28,6 +28,7 @@ To test if your terminal and font support it, check that all the necessary chara
 - Elevated (root) privileges (⚡)
 
 ![Screenshot](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)
+![Screenshot_Modify](https://raw.githubusercontent.com/aweimeow/agnoster-zsh-theme/master/screenshot_modify.png)
 
 ## Future Work
 
